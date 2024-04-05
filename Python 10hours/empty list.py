@@ -1,9 +1,9 @@
 import random
 import time
 
-wordlist = ['hacker', 'bounty', 'random']
+wordlist = ['bug', 'bounty', 'random']
 
-print('Welcome to Hangman! ')
+print('Welcome to the Game! ')
 time.sleep(1)
 print('............')
 print('this is a game and you have to guess a letter')
